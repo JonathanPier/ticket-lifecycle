@@ -62,9 +62,12 @@ In osTicket, assigning a priority to a ticket is important because not every sup
 
 <h2>Resolution (Work the ticket to completion as john)</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="657" height="643" alt="image" src="https://github.com/user-attachments/assets/446d15a4-6377-4ebf-a436-4f6d88820ca0" />
+<img width="653" height="656" alt="image" src="https://github.com/user-attachments/assets/eadbda36-0518-49be-b185-b7b9b4fbc654" />
+<img width="671" height="522" alt="image" src="https://github.com/user-attachments/assets/49162893-b8df-4b92-a6ec-c4dd2836863b" />
+<img width="569" height="575" alt="image" src="https://github.com/user-attachments/assets/0272ba55-e840-4f9e-9774-6320c2d6fa66" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Resolving a ticket in osTicket is an important part of the help-desk process because it formally indicates that the customer's problem has been addressed and that the support team has completed the necessary work. A ticket should not remain open indefinitely after the underlying problem has been solved. By changing a ticket to a resolved or closed state according to the organization's workflow, the help desk can maintain an accurate record of its work, communicate the outcome to the customer, measure its performance, and keep the ticket system organized.</p>
 <br />
