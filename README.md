@@ -37,17 +37,23 @@ An end-user is the person who uses an organization's computer system, applicatio
 
 <h2>As a Help Desk Agent (john), observe the ticket’s properties(Priority,Department,SLA,Assigned To)</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="692" height="622" alt="image" src="https://github.com/user-attachments/assets/dff81e23-9941-4ae3-b5f7-6901e9e5c191" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+In osTicket, a Help Desk Agent, such as John, needs to carefully observe the properties of a ticket before beginning to work on it. Important ticket properties include Priority, Department, SLA, and Assigned To. These properties provide the agent with essential information about the importance of the problem, which department is responsible for handling it, how quickly the organization is expected to respond, and which staff member is responsible for the ticket.
+
+Observing these properties is important because a ticket is more than simply a description of a customer's technical problem. It also contains information that determines how the problem should be managed</p>
 <br />
 
 
 <h2>Set Properties to the ticket</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="569" height="604" alt="image" src="https://github.com/user-attachments/assets/2a1da6dc-fc9b-4bed-b8d3-11cbf380fdd6" />
+<img width="592" height="538" alt="image" src="https://github.com/user-attachments/assets/3f64e7b5-1825-4a68-aceb-4c4d692cd0d2" />
+<img width="568" height="619" alt="image" src="https://github.com/user-attachments/assets/fd9f63a1-e375-4b53-a9d7-93886bae14ff" />
+<img width="605" height="621" alt="image" src="https://github.com/user-attachments/assets/e40bbeaa-e7e0-4065-8b13-b8e7ce9b339f" />
+<img width="619" height="546" alt="image" src="https://github.com/user-attachments/assets/d0a3ea92-04a4-49d6-9bb5-a306ae73a231" />
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
