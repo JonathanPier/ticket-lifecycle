@@ -53,11 +53,11 @@ Observing these properties is important because a ticket is more than simply a d
 <img width="568" height="619" alt="image" src="https://github.com/user-attachments/assets/fd9f63a1-e375-4b53-a9d7-93886bae14ff" />
 <img width="605" height="621" alt="image" src="https://github.com/user-attachments/assets/e40bbeaa-e7e0-4065-8b13-b8e7ce9b339f" />
 <img width="619" height="546" alt="image" src="https://github.com/user-attachments/assets/d0a3ea92-04a4-49d6-9bb5-a306ae73a231" />
+<img width="612" height="621" alt="image" src="https://github.com/user-attachments/assets/789da36f-fcea-4f69-9743-57a168674393" />
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+In osTicket, assigning a priority to a ticket is important because not every support request has the same level of urgency or impact. A help desk may receive many tickets from different users, and some problems need immediate attention while others can safely wait. Ticket priority provides a way for the help-desk team to determine which requests should be handled first and which can be addressed later.</p>
 <br />
 
 <h2>Resolution (Work the ticket to completion as john)</h2>
