@@ -31,8 +31,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="551" height="660" alt="image" src="https://github.com/user-attachments/assets/e8257988-55c8-4574-8757-e398ca275b64" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+An end-user is the person who uses an organization's computer system, application, network, service, or other technology and may need assistance when something goes wrong. In osTicket, the end-user plays an important role because they are usually the person who identifies a problem and creates a support ticket. Creating a ticket is the starting point of the help-desk process. It allows the user's problem to be formally recorded, categorized, assigned to the appropriate support staff, investigated, and eventually resolved.</p>
 <br />
 
 
